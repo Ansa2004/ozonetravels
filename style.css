@@ -763,7 +763,7 @@ select.form-control {
 }
 @media(max-width:768px){
   .hero-text img{
-     height: 40vh;
+     height: 25vh;
   width: 40vw;
   padding-top: 90px;
   }
